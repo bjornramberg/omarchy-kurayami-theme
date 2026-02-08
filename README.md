@@ -2,7 +2,7 @@
 
 This is a custom theme for [Omarchy.org](https://omarchy.org) 
 
-This theme focuses a simple palette and heavy brush strokes. Moving away from standard dark modes, the Kurayami Theme uses a specific palette of "shadow-greens" to mimic the feeling of a cold, moonless night. For anyone who find peace in the dark and beauty in the quietest moments of life.
+This theme focuses on a simple palette and heavy brush strokes. Moving away from standard dark modes, the Kurayami Theme uses a specific palette of "shadow-greens" to mimic the feeling of a cold, moonless night. For anyone who find peace in the dark and beauty in the quietest moments of life.
 
 ![kurayami](https://raw.githubusercontent.com/bjornramberg/omarchy-kurayami-theme/refs/heads/main/preview.png)
 
