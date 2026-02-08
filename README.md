@@ -1,6 +1,10 @@
 # Omarchy Kurayami Theme
 
-This is a custom theme for [Omarchy.org](https://omarchy.org) inspired by darkness and in earthy tones in green shhades.
+This is a custom theme for [Omarchy.org](https://omarchy.org) 
+
+This theme focuses on the beauty of being alone. Moving away from standard dark modes, the Kurayami Theme uses a specific palette of "shadow-greens" to mimic the feeling of a cold, moonless night. For anyone who find peace in the dark and beauty in the quietest moments of life.
+
+![kurayami](https://raw.githubusercontent.com/bjornramberg/omarchy-kurayami-theme/refs/heads/main/preview.png)
 
 ## Installation
 
@@ -9,7 +13,6 @@ To install this theme, simply use the `omarchy-theme-install` command:
 ```bash
 omarchy-theme-install https://github.com/bjornramberg/omarchy-kurayami-theme
 ```
-
 ## Included Configurations
 This theme includes configurations for:
 - Alacritty (alacritty.toml) - Terminal emulator
